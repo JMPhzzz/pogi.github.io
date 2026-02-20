@@ -59,6 +59,10 @@ h2 {
     text-align: center;
 }
 
+h2:hover {
+    background-color: #ddd;
+}
+
 a {
     background-color: #333;
     margin: 30px;

@@ -63,6 +63,14 @@ h2:hover {
     background-color: #ddd;
 }
 
+h1 {
+    color: #333;
+    background-color: #f1f1f1;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
 a {
     background-color: #333;
     margin: 30px;
